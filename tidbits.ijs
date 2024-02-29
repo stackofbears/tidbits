@@ -1,4 +1,4 @@
-NB. Cycle-detecting ^: (monad). Works only on numeric atoms.
+NB. Cycle-detecting ^:a: (monad). Works only on numeric atoms.
 NB. 
 NB. The parens around ".@'y'M. are significant for enabling PPPP; see
 NB. https://code.jsoftware.com/wiki/Vocabulary/SpecialCombinations.
